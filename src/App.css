@@ -1,0 +1,31 @@
+.header {
+  text-align: center;
+}
+
+.action {
+  padding: 6px 10px;
+  color: white;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.863);
+  margin: 10px auto;
+  display: flex;
+}
+
+.header {
+  margin: 0;
+  background-color: grey;
+}
+
+.container {
+  background-color: rgb(128, 128, 128, 0.5);
+  padding-bottom: 20px;
+}
+
+.canvas {
+  margin: 10px auto;
+  background-color: #fff;
+}
+
+.flex {
+  display: flex;
+}
